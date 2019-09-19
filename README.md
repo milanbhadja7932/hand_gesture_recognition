@@ -15,4 +15,5 @@ The points of intersection between the hand contour and convex hull are saved in
 
 output
 
+![face and eye](https://github.com/milanbhadja7932/face-and-eye-detection/blob/master/1_tI273XoAhk39jAdc3YMf1w.png)
 
