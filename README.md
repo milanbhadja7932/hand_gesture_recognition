@@ -13,10 +13,13 @@ In a first approach we tried to use dynamic background subtraction. The problem 
 Fingers identification</br>
 The points of intersection between the hand contour and convex hull are saved in an array, they will be used to locate the finger tips.</br>
 
-output
+output like this
 
+There is one images for first finger
 ![first](https://github.com/milanbhadja7932/hand_gesture_recognition/blob/master/first.jpg)
 
+
+there is one images for five letter
 ![five](https://github.com/milanbhadja7932/hand_gesture_recognition/blob/master/five.jpg)
 
 
